@@ -2,7 +2,7 @@
 This repo contains content created for a webiner that I have talked about machine learning.
 
 
-### Yapay Zeka, Makine Öğrenmesi, Derin Öğrenme
+- Yapay Zeka, Makine Öğrenmesi, Derin Öğrenme
 ## Makine Öğrenmesinin Yapay Zeka ile İlişkisi
 ## Sınıflandırma, Regresyon ve Kümeleme
 ## Makine Öğrenmesinde Öğrenme Modelleri
