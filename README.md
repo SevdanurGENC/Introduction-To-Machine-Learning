@@ -3,11 +3,11 @@ This repo contains content created for a webiner that I have talked about machin
 
 
 - Yapay Zeka, Makine Öğrenmesi, Derin Öğrenme
-## Makine Öğrenmesinin Yapay Zeka ile İlişkisi
-## Sınıflandırma, Regresyon ve Kümeleme
-## Makine Öğrenmesinde Öğrenme Modelleri
-## Makine Öğrenmesi Algoritmaları
-## Öznitelik Seçim Algoritmaları
-## Sınıflandırmalar Algoritmaları için Performans Ölçüm Kriterleri
-## Kuantum Makine Öğrenmesi (Quantum Machine Learning)
+- Makine Öğrenmesinin Yapay Zeka ile İlişkisi
+- Sınıflandırma, Regresyon ve Kümeleme
+- Makine Öğrenmesinde Öğrenme Modelleri
+- Makine Öğrenmesi Algoritmaları
+- Öznitelik Seçim Algoritmaları
+- Sınıflandırmalar Algoritmaları için Performans Ölçüm Kriterleri
+- Kuantum Makine Öğrenmesi (Quantum Machine Learning)
 
